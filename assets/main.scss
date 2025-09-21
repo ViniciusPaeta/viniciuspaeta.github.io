@@ -19,3 +19,6 @@ p.signature {
 
 /* 3) remover apenas o título no rodapé; manter a descrição */
 .site-footer .footer-heading { display: none !important; }
+
+/* hide only the footer title ("Arch Writes") and keep the description */
+.site-footer .footer-heading { display: none !important; }
