@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 title: "First Three Weeks With Arch Linux"
-date: 2025-10-12
+date: 2025-10-11 00:00:00 -0300
 categories: [Linux]
 tags: [arch-linux, linux, experiences, lxqt, no-aur]
 excerpt: "A concise academic-style account of my first three weeks on Arch Linux: minimal base, disciplined updates from official repos only, and a lightweight LXQt environment focused on reproducibility."
