@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "First Three Weeks With Arch Linux"
-date: 2025-10-11 00:00:00 -0300
+date: 2025-10-10 12:00:00 -0300
 categories: [Linux]
 tags: [arch-linux, linux, experiences, lxqt, no-aur]
 excerpt: "A concise academic-style account of my first three weeks on Arch Linux: minimal base, disciplined updates from official repos only, and a lightweight LXQt environment focused on reproducibility."
+published: true
+permalink: /posts/first-three-weeks-with-arch-linux/
 ---
 
 During the first week, I established a minimal and controlled base system with careful partitioning, encrypted storage, and a reliable boot sequence. I limited package management to pacman and the official repositories, cultivated the habit of reading Arch news before updates, verified hooks, and kept a fallback kernel. I selected LXQt as the desktop environment because it offers a lightweight and keyboard-oriented workflow aligned with my goals of performance, transparency, and reproducibility.
