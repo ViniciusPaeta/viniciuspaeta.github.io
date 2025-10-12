@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "First Three Weeks With Arch Linux"
 date: 2025-10-12
@@ -15,10 +15,10 @@ In the third week, I consolidated maintenance and resilience. I reviewed install
 
 ---
 
-Na primeira semana, estabeleci um sistema base mínimo e controlado, com particionamento cuidadoso, armazenamento criptografado e uma sequência de inicialização confiável. Restrigi o gerenciamento de pacotes ao pacman e aos repositórios oficiais, adotei o hábito de ler as notícias do Arch antes de atualizações, verifiquei os hooks e mantive um kernel de contingência. Escolhi o LXQt como ambiente gráfico por oferecer um fluxo leve e orientado ao teclado, coerente com meus objetivos de desempenho, transparência e reprodutibilidade.
+Na primeira semana, estabeleci um sistema base mÃ­nimo e controlado, com particionamento cuidadoso, armazenamento criptografado e uma sequÃªncia de inicializaÃ§Ã£o confiÃ¡vel. Restrigi o gerenciamento de pacotes ao pacman e aos repositÃ³rios oficiais, adotei o hÃ¡bito de ler as notÃ­cias do Arch antes de atualizaÃ§Ãµes, verifiquei os hooks e mantive um kernel de contingÃªncia. Escolhi o LXQt como ambiente grÃ¡fico por oferecer um fluxo leve e orientado ao teclado, coerente com meus objetivos de desempenho, transparÃªncia e reprodutibilidade.
 
-Na segunda semana, enfatizei organização e reprodutibilidade. Versionei meus dotfiles, separei segredos de configurações portáveis e documentei cada alteração. No LXQt, refinei o layout do painel, os atalhos de teclado e o autostart da sessão para reduzir fricções nas tarefas diárias. Adotei uma cadência conservadora de atualizações, validei logs após mudanças e confirmei que cada modificação aumentava a clareza em vez da complexidade.
+Na segunda semana, enfatizei organizaÃ§Ã£o e reprodutibilidade. Versionei meus dotfiles, separei segredos de configuraÃ§Ãµes portÃ¡veis e documentei cada alteraÃ§Ã£o. No LXQt, refinei o layout do painel, os atalhos de teclado e o autostart da sessÃ£o para reduzir fricÃ§Ãµes nas tarefas diÃ¡rias. Adotei uma cadÃªncia conservadora de atualizaÃ§Ãµes, validei logs apÃ³s mudanÃ§as e confirmei que cada modificaÃ§Ã£o aumentava a clareza em vez da complexidade.
 
-Na terceira semana, consolidei manutenção e resiliência. Revisei pacotes instalados quanto à necessidade, substituí ajustes pontuais por configurações explícitas e fortaleci rotinas de backup do sistema e dos dados do usuário. Realizei pequenos exercícios de recuperação para verificar reversões seguras e aperfeiçoei a monitoração de logs para detectar anomalias com antecedência. Ao final da terceira semana, o Arch Linux operava não como um produto estático, mas como uma plataforma ativamente curada, consolidando hábitos de documentação, verificação de fontes e gestão responsável, preservando a eficiência e a clareza oferecidas pelo LXQt.
+Na terceira semana, consolidei manutenÃ§Ã£o e resiliÃªncia. Revisei pacotes instalados quanto Ã  necessidade, substituÃ­ ajustes pontuais por configuraÃ§Ãµes explÃ­citas e fortaleci rotinas de backup do sistema e dos dados do usuÃ¡rio. Realizei pequenos exercÃ­cios de recuperaÃ§Ã£o para verificar reversÃµes seguras e aperfeiÃ§oei a monitoraÃ§Ã£o de logs para detectar anomalias com antecedÃªncia. Ao final da terceira semana, o Arch Linux operava nÃ£o como um produto estÃ¡tico, mas como uma plataforma ativamente curada, consolidando hÃ¡bitos de documentaÃ§Ã£o, verificaÃ§Ã£o de fontes e gestÃ£o responsÃ¡vel, preservando a eficiÃªncia e a clareza oferecidas pelo LXQt.
 
 {% include signature.html name="Vinícius [Paeta] Nascimento" %}
